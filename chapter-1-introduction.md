@@ -6,7 +6,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Now many years later, after working with some thousands of families, I find there are still a lot of puzzles. I have learned from my work, and learning opens up new possibilities and new directions for discovery. It is now clear to me that the family is a microcosm of the world. To understand the world, we can study the family: issues such as power, intimacy, autonomy, trust, and communication skills are vital parts underlying how we live in the world. To change the world is to change the family.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Family life is something like an iceberg: most people are aware of only about one-tenth of what is going on — the tenth that they can see and hear. Some suspect these may be more, but they don’t know what and have no idea how to find out. Not knowing can set the family on a dangerous course. Just as a sailor’s fate depends on knowing that the bulk of the iceberg is under the water, so a family’s fate depends on understanding the feelings and needs that lie beneath everyday family events. (What goes on under the table?)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Family life is something like an iceberg: most people are aware of only about one-tenth of what is going on — the tenth that they can see and hear. Some suspect these may be more, but they don’t know what and have no idea how to find out. Not knowing can set the family on a dangerous course. Just as a sailor’s fate depends on knowing that the bulk of the iceberg is under the water, so a family’s fate depends on understanding the feelings and needs that lie beneath everyday family events. (What goes on _under_ the table?)
 
 <img class="book-img" src="images/chap1p2.png">
 
@@ -18,17 +18,17 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When you add all this up, you have physically healthy, mentally alert, feeling, loving, playful, authentic, creative, productive, responsible human beings. These are people who can stand on their own two feet, love deeply, and fight fairly and effectively. They can be on equally god terms with both their tenderness and their toughness, and can know the difference between them.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The family is the context in which a person with such dimensions developers. And the adults in charge are the peoplemakers.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The family is the context in which a person with such dimensions developers. And the adults in charge are the _peoplemakers_.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In my years as a family therapist, I have found that four aspects of family life keep popping up:
 
-The feelings and ideas one has about oneself, which I call self-worth
+The feelings and ideas one has about oneself, which I call _self-worth_
 
-The ways people use to work out meaning with one another, which I call communication
+The ways people use to work out meaning with one another, which I call _communication_
 
-The rules people use for how they should feel and act, which eventually develop into what I call the family system
+The rules people use for how they should feel and act, which eventually develop into what I call the _family system_
 
-The way people relate to other people and institutions outside the family, which I call the link to society.
+The way people relate to other people and institutions outside the family, which I call the link to _society_.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No matter what kind of problem first led a family into my office — whether an unfaithful wife or depressed husband, a delinquent daughter or a schizophrenic son — I soon found that the prescription was the same. To relieve their family pain, some way had to be found to change these four key factors. In all the troubled families I noticed that:
 
@@ -54,25 +54,25 @@ The link to society is open and hopeful, and is based on choice.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No matter where a surgeon studies medicine, he can operate on any human being anywhere in the world, because the internal organs and the limbs will be in relatively the same place. Through my work with families, troubled and nurturing, in most of the continents of the world, I have learned that families everywhere deal with the same issues. In all families.
 
-Every person has a feeling of worth, positive or negative; the question is,
+_Every person has a feeling of worth, positive or negative;_ the question is,
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Which is it?
 
-Every person communicates; the question is,
+_Every person communicates;_ the question is,
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How, and what happens as a result?
 
-Every person follows rules; the question is,
+_Every person follows rules;_ the question is,
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What kind, and how well do they work for her, or him?
 
-Every person is linked to society; the question is,
+_Every person is linked to society;_ the question is,
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In what way, and what are the results?
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;These things are true whether the family is a natural one, in which the man and woman who sired and conceived the child continue to care for that child until the child is grown; a one-parent family, in which one parent leaves the family by death, divorce, or desertion, and all of the parenting is done by the remaining parent; a blended family, whose children are parented by step-, adoptive, foster, or gay parents; or an institutional family, in which groups of adults rear groups of children, as in institutions, communes, or extended families. Today, children are being brought up in many configurations.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;These things are true whether the family is a natural one, in which the man and woman who sired and conceived the child continue to care for that child until the child is grown; a _one-parent_ family, in which one parent leaves the family by death, divorce, or desertion, and all of the parenting is done by the remaining parent; a _blended_ family, whose children are parented by step-, adoptive, foster, or gay parents; or an _institutional_ family, in which groups of adults rear groups of children, as in institutions, communes, or extended families. Today, children are being brought up in many configurations.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Each of these family forms has its own special problems and possibilities, and we will return to them later. Basically, the same forces will be at work in all of them: self-worth, communication, rules and links to society.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Each of these family forms has its own special problems and possibilities, and we will return to them later. Basically, the same forces will be at work in all of them: _self-worth_, _communication_, _rules_ and _links to society_.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This book will help you discover how these elements operate in your own family and point to some new directions you can take to change. Think of my words as the voice of someone who has accumulated experience from sharing the happiness and sorrow, the hurt and anger, and the love, of many families, including my own.
 
@@ -90,14 +90,14 @@ Every person is linked to society; the question is,
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have seen much pain in families. Each family has moved me deeply. Through this book I hope to ease that pain in families whom I may never have a chance to meet personally. In doing so, I also hope to present the pain from continuing into the families their children will form. Some human pain is unavoidable, of course. I see two kinds of pain: one is the pain of recognition of problems, and the other is the pain of blame. The first we can't avoid; the second we can. We can direct our effects to change what we can and to work out creative ways to live with what we can't change.
 
-<div style="text-align:center">THE SERENITY PRAYER</div>
+<p class="text-center">THE SERENITY PRAYER</p>
 
-<div style="text-align:center">
-<p>God grant me the serenity to accept<br>
+<p class="text-center">
+God grant me the serenity to accept<br>
 the things I cannot change,<br>
 Courage to change the things I can,<br>
 And wisdom to know the difference.<br>
-— Reinhold Niebuhr</p></div>
+— <i>Reinhold Niebuhr</i></p>
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Just reading this book may evoke some or both kinds of pain for you because it can bring back memories. After all, facing ourselves and learning how to take some responsibility for ourselves have their painful moments. If you think there may be a better way of living together as a family than the way you are living now, though, you’ll also find this book rewarding.
