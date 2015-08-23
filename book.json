@@ -1,0 +1,8 @@
+{
+    "styles": {
+        "website": "styles/all.css",
+        "ebook": "styles/all.css"
+    },
+    
+    "gitbook": ">=2.0.0"
+}

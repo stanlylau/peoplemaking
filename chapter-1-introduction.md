@@ -2,13 +2,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When I was five, I decided that when I grew up I’d be a "children's detective on parents." I didn’t quite know what I would look for, but I realized a lot went on in families that didn’t meet the eye. There were a lot of puzzles I did not know how to understand.
 
-[picture 1]
+<img class="book-img" src="images/chap1p1.png">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Now many years later, after working with some thousands of families, I find there are still a lot of puzzles. I have learned from my work, and learning opens up new possibilities and new directions for discovery. It is now clear to me that the family is a microcosm of the world. To understand the world, we can study the family: issues such as power, intimacy, autonomy, trust, and communication skills are vital parts underlying how we live in the world. To change the world is to change the family.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Family life is something like an iceberg: most people are aware of only about one-tenth of what is going on — the tenth that they can see and hear. Some suspect these may be more, but they don’t know what and have no idea how to find out. Not knowing can set the family on a dangerous course. Just as a sailor’s fate depends on knowing that the bulk of the iceberg is under the water, so a family’s fate depends on understanding the feelings and needs that lie beneath everyday family events. (What goes on under the table?)
 
-[picture 2]
+<img class="book-img" src="images/chap1p2.png">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Through the years I have also found ways to approach solutions to many puzzles. I would like to share them with you in this book. In the chapters that follow we will be looking at the underside of the iceberg.
 
@@ -82,7 +82,7 @@ Every person is linked to society; the question is,
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From time to time, as you read, you will come upon suggested experiments or exercises designed to give you new experiences and new ways to understand what may be happening to you. I hope you will do each one as you come to it, even if at first it seems simple or foolish. Knowing something begins a change; experiencing makes it happen. These experiments are positive, concrete steps your family can take to become less troubled and more nurturing. The more members of your family who take part, the more effective the results will be. Remember, you learn to swim better when you get into the water.
 
-[picture 6]
+<img class="book-img" src="images/chap1p6.png">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If you feel shy or doubtful about inviting family members to participate in these exercises with you, become throughly familiar with what you are asking, feel it from your heart, and present your wish simply and directly. If you feel enthusiastic and hopeful about what you are asking, you will probably communicate a sense of excitement, which will make the invitation attractive and encourage your family to go along with you. By setting your request in a simple, straightforward question — "Will you participate with me in an experiment that I think might be useful to us?" — you maximize the opportunity for a positive response.
 
