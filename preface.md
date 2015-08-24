@@ -4,7 +4,7 @@ When _Peoplemaking_ was first published in 1972, I invited readers to share thei
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This revision is my response to you, the readers. You
 asked me to discuss:
-<p style="margin-left: 100px">Adolescence<br>
+<p style="margin-left: 60px">Adolescence<br>
 Life in the older years: retirement and<br>
 transitions<br>
 Peace in the world<br>
