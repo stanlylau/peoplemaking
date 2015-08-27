@@ -6,5 +6,13 @@
 
     "gitbook": ">=2.0.0",
 
-    "title": "The New Peoplemaking"
+    "title": "The New Peoplemaking",
+
+    "plugins": ["ga"],
+
+    "pluginsConfig": {
+        "ga": {
+            "token": "UA-66829136-1"
+        }
+    }
 }
