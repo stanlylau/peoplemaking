@@ -1,7 +1,7 @@
 # The New Peoplemaking
 by Virginia Satir
 
-`Latest notable update: Added Chapter 2`
+`Latest: Added Chapter 3`
 
 #### Book formats
 

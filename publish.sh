@@ -11,7 +11,7 @@ mv _book book;
 
 rm -rf book/web;
 rm book/publish.sh;
-rm book/.gitmodules
+rm book/.gitmodules;
 
 mv book web/;
 mv book.epub web;
