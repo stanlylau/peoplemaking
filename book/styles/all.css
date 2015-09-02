@@ -20,3 +20,12 @@
 .text-right {
   text-align: right;
 }
+
+.footnote {
+  font-size: 0.9em;
+}
+
+.narrower {
+  margin-left:25px;
+  margin-right:25px;
+}
